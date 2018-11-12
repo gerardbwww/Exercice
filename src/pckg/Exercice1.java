@@ -6,9 +6,14 @@ public class Exercice1 {
 		// TODO Auto-generated method stub
 
 		//Start of the program
-		System.out.print("Bonjour cher utilisateur, ceci est votre premier programme!");
+		System.out.println("Bonjour cher utilisateur, ceci est votre premier programme!");
+
 		Nathan nathan = new Nathan();
 		nathan.bonjour();
+
+		Gg gg = new Gg();
+		gg.gerard();
+
 	}
 
 }
