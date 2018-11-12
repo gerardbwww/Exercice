@@ -7,6 +7,8 @@ public class Exercice1 {
 
 		//Start of the program
 		System.out.print("Bonjour cher utilisateur, ceci est votre premier programme!");
+		Nathan nathan = new Nathan();
+		nathan.bonjour();
 	}
 
 }
