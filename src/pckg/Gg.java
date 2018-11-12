@@ -6,7 +6,7 @@ public class Gg {
 		// TODO Auto-generated method stub
 
 		//Start of the program
-		System.out.print("Bonjour c'est moi Gérard!");
+		System.out.print("Bonjour Nathan, c'est moi Gérard!");
 	}
 
 }
