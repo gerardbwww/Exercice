@@ -1,4 +1,4 @@
-package myPackageFromScratch;
+package pckg;
 
 public class Exercice1 {
 
